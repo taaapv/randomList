@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		8F375D5827D8BAAE00E7814B /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F375D5727D8BAAE00E7814B /* DetailViewController.swift */; };
 		8F375D5A27D8C2A200E7814B /* SectionsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F375D5927D8C2A200E7814B /* SectionsTableViewController.swift */; };
+		8F375D5C27D8DACF00E7814B /* HeaderCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F375D5B27D8DACF00E7814B /* HeaderCell.swift */; };
 		8F50AD8027D7A4A100805CD1 /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F50AD7F27D7A4A100805CD1 /* DataManager.swift */; };
 		8F50AD8227D7A65100805CD1 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F50AD8127D7A65100805CD1 /* Person.swift */; };
 		8F72925527D2B02E00D152AA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F72925427D2B02E00D152AA /* AppDelegate.swift */; };
@@ -22,6 +23,7 @@
 /* Begin PBXFileReference section */
 		8F375D5727D8BAAE00E7814B /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		8F375D5927D8C2A200E7814B /* SectionsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionsTableViewController.swift; sourceTree = "<group>"; };
+		8F375D5B27D8DACF00E7814B /* HeaderCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderCell.swift; sourceTree = "<group>"; };
 		8F50AD7F27D7A4A100805CD1 /* DataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
 		8F50AD8127D7A65100805CD1 /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 		8F72925127D2B02E00D152AA /* randomListOfPeople.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = randomListOfPeople.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -68,6 +70,7 @@
 				8F72925627D2B02E00D152AA /* SceneDelegate.swift */,
 				8F50AD7F27D7A4A100805CD1 /* DataManager.swift */,
 				8F50AD8127D7A65100805CD1 /* Person.swift */,
+				8F375D5B27D8DACF00E7814B /* HeaderCell.swift */,
 				8F72926827D2B06400D152AA /* RandomListTableViewController.swift */,
 				8F375D5727D8BAAE00E7814B /* DetailViewController.swift */,
 				8F375D5927D8C2A200E7814B /* SectionsTableViewController.swift */,
@@ -154,6 +157,7 @@
 				8F72925527D2B02E00D152AA /* AppDelegate.swift in Sources */,
 				8F375D5A27D8C2A200E7814B /* SectionsTableViewController.swift in Sources */,
 				8F50AD8027D7A4A100805CD1 /* DataManager.swift in Sources */,
+				8F375D5C27D8DACF00E7814B /* HeaderCell.swift in Sources */,
 				8F375D5827D8BAAE00E7814B /* DetailViewController.swift in Sources */,
 				8F72926927D2B06400D152AA /* RandomListTableViewController.swift in Sources */,
 				8F72925727D2B02E00D152AA /* SceneDelegate.swift in Sources */,
